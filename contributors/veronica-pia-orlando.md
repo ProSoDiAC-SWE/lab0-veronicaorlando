@@ -3,7 +3,7 @@ Veronica Pia Orlando
 ## Matricola
 554075
 ## Corso
-Laurea Triennale in Ingegneria Informatica – Programmazione ad Oggetti
+Laurea Triennale in Ingegneria Elettronica e Informatica – Programmazione ad Oggetti
 ## Chi sono
 Sono Veronica, ho 21 anni, vivo a Patti in provincia di Messina, studio ingegneria informatica
 ## Interessi in Informatica
