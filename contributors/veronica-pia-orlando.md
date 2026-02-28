@@ -5,10 +5,11 @@ Veronica Pia Orlando
 ## Corso
 Laurea Triennale in Ingegneria Elettronica e Informatica – Programmazione ad Oggetti
 ## Chi sono
-Sono Veronica, ho 21 anni, vivo a Patti in provincia di Messina, studio ingegneria informatica
+Sono Veronica, ho 21 anni, vivo a Patti in provincia di Messina, studio ingegneria informatica.
+Oltre a studiare pratico karate.
 ## Interessi in Informatica
-Sicurezza
-AI
+- Sicurezza
+- AI
 ## Contatti
 - GitHub: @veronicaorlando
 - Email: rlnvnc04l56g377s@studenti.unime.it
